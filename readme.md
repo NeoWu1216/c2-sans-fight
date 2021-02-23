@@ -1,5 +1,5 @@
 # Bad Time Simulator ("Sans" Fight)
-URL: https://neowu1216.github.io/c2-sans-fight/
+URL: https://neowu1216.github.io/c2-sans-fight/ 
 
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
 It's cloned from https://github.com/Jcw87/c2-sans-fight

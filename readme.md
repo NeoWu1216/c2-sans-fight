@@ -1,6 +1,11 @@
-# Bad Time Simulator (Sans Fight)
+# Bad Time Simulator ("Sans" Fight)
+URL: https://neowu1216.github.io/c2-sans-fight/
+
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
-It was made with [Construct 2](https://www.scirra.com/construct2).
+It's cloned from https://github.com/Jcw87/c2-sans-fight
+It was made with [Construct 2](https://www.scirra.com/construct2), which I have no idea with... GG I only modify some in game files in gh-pages branch
+
+
 
 NOW AVAILABLE! [Custom attacks guide](Documentation/README.MD)
 -----------------------------------------------------
